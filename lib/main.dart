@@ -1,6 +1,6 @@
+import 'package:Jurado1079/BNavigation/bottom_nav.dart';
 import 'package:flutter/material.dart';
-import 'package:jurado1079/BNavigation/routes.dart';
-import 'BNavigation/bottom_nav.dart';
+import 'package:Jurado1079/BNavigation/routes.dart';
 
 void main() => runApp(Myapp());
 
